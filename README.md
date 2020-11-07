@@ -1,6 +1,6 @@
-# translate
+## Translate
 
-A new Flutter project.
+Translate is an app aimed to translate the text provided by the user to desired language.
 
 ## Getting Started
 
